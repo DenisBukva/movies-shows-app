@@ -1,4 +1,4 @@
-#Moive App
+#Movie App
 
 ##Technologies
 Project is created with:
