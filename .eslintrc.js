@@ -31,5 +31,6 @@ module.exports = {
     'no-param-reassign': 0,
     'import/no-cycle': 0,
     'react/jsx-no-useless-fragment': 0,
+    'linebreak-style': ['error', 'windows'],
   },
 };
